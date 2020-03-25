@@ -1,0 +1,10 @@
+<!--esercizio 1-->
+<!-- documento XML NON correttamente annidato-->  
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+  <name>Mario</name>
+  <surname>Rossi
+  <date>19.11.1965</surname>
+  </date>
+  <place>Italy</place>
+</person>

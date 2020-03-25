@@ -1,0 +1,9 @@
+<!-- esercizio 2-->
+<?xml version="1.0" encoding="utf-8"?>
+<text> il primo xml con validazione
+   <!-- aggiungo il figlio name all'elemento text-->
+   <name> Luca </name>
+</text>
+<!-- aggiungo il fratello text all'elemento text-->
+<text> Con l'aggiunta di figli e fratelli 
+</text>
