@@ -1,6 +1,8 @@
 <?xml version=”1.0” encoding=”UTF-8” ?>
-<!DOCTYPE nota SYSTEM “./schema/Esercizio6.dtd”>
-<nota nome = "Viaggio">
-    <da>Roma</da>
-    <a>Milano</a> 
-</nota>
+<!DOCTYPE radice SYSTEM “./schema/Esercizio6.dtd”>
+<radice>
+  <nota nome = "Viaggio">
+     <da>Roma</da>
+     <a>Milano</a> 
+  </nota>
+</radice>
