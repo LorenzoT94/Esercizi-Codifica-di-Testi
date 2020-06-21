@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "Esercizio9.dtd">
+<TEI xmlns="http://www.teic.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Olanda testo elettronico</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Progetto Gutenberg</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+             <author>Edmondo De Amicis</author>
+             <title level = "m">Olanda</title>
+             <imprint>
+                <pubPlace>Firenze</pubPlace>
+                <publisher>G. Barbera</publisher>
+                <date>1876</date>
+             </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor>EDMONDO DE AMICIS</docAuthor>
+        <docTitle>
+            <titlePart type = "main">OLANDA</titlePart>
+        </docTitle>
+        <docImprint>
+            <pubPlace>FIRENZE</pubPlace>
+            <publisher>G.BARBERA, EDITORE</publisher>
+            <date>1876</date>
+        </docImprint>
+      </titlePage>
+    </front>
+    <body>
+      <p>Tutt'a un tratto avvicinandomi alla <distinct>prora</distinct> del bastimento, dove sono 
+         le terze classi, feci una gratissima scoperta.</p>
+      <p>V'era un gruppo di <rs type="person">contadini</rs>, <rs type="person">uomini</rs> e 
+         <rs type="person">donne</rs>, vestiti alla zelandese, non ricordo di 
+         quale isola, poichè il costume cangia da isola a isola, come cangia il
+         dialetto, che è un misto d'olandese e di fiammingo, se pure si può dir
+         così di due linguaggi che non hanno che piccolissime differenze.</p>
+      <p>Gli<rs type="person">uomini</rs> erano tutti vestiti ad un modo.</p> 
+      <p>Avevano un cappello di feltro, rotondo, con un gran nastro ricamato; una giacchetta di
+         panno scuro, stretta, corta da coprire appena il fianco, aperta in modo da lasciar
+         vedere una specie di panciotto listato di rosso, giallo e verde, chiuso sul petto da una fila di bottoni d'argento l'uno che toccava l'altro, come gli anelli d'una catena; un paio di mezzi calzoni di panno, del colore della giacchetta, stretti intorno alla vita da una cintura munita d'una gran borchia d'argento cesellata; e infine la cravatta rossa e le calze di lana fino al ginocchio.</p>
+      <p><distinct>In somma</distinct>, un po' <rs type="person">preti</rs> dalla cintura in giù, 
+         e dalla cintura in su un po' <rs type="person">arlecchini</rs>.</p>
+      <p>Uno di essi aveva per bottoni delle monete: uso assai comune.</p>
+      <p>Le <rs type="person">donne</rs> avevano un cappello di paglia della forma d'un cono 
+         tronco, altissimo, che pareva un secchiolino rovesciato, intorno al quale svolazzavano dei larghi nastri azzurri; una veste di color scuro aperta sul petto che lasciava vedere
+         una camicia bianca ricamata; le braccia nude dal gomito in giù; e due
+         enormi orecchini d'oro o dorati di varie forme stravaganti, che sporgevano innanzi fin sulle guancie.</p>
+      <p>Per quanto mi sforzassi di fare come fa <name type="person">Vittor Ugo</name> in viaggio,
+         <quote>di ammirar tutto come un bruto</quote>, non riuscii a persuadermi che quelle <distinct>foggie</distinct> di vestire fossero belle.</p>
+      <p>Ma a questa sorta di contrarietà ero preparato.</p>
+      <p>Sapevo che in <name type="place">Olanda</name> ci si va per vedere del nuovo più che del
+         bello, e del buono altrettanto che del nuovo; e perciò m'ero predisposto più
+         all'osservazione che all'entusiasmo.</p>
+      <p>E di quella prima impressione poco grata al mio gusto pittoresco, mi confortai pensando
+         che quei <rs type="person">contadini</rs> sapevano certamente tutti leggere e scrivere, che forse la sera prima avevano studiato a memoria una canzone del loro grande poeta <name type="person">Jacob Catz</name>, e che probabilmente si recavano col loro bravo programma in tasca a qualche convegno rurale, dove avrebbero preso la parola per confutare cogli argomenti della loro modesta esperienza le proposte d'un dotto <rs type="person">agronomo</rs> di <name type="place">Goes</name> o di <name type="place">Middelburg</name>.</p>
+      <p><name type="person">Ludovico Guicciardini</name>, <rs type="person">gentiluomo 
+         fiorentino </rs>, autore d'una bell'opera sui <name type="place">Paesi Bassi</name>, stampata in <name type="place">Anversa</name>nel secolo <num value="16">XVI</num>, dice che in <name type="place">Zelanda</name> non v'è quasi <rs type="person">uomo</rs> nè 
+         <rs type="person">donna</rs> che parli francese e spagnuolo, e che moltissimi parlano italiano.</p>
+      <p>Questa che forse era una esagerazione anche ai suoi tempi, 
+         sarebbe,detta ora, una favola; ma è certo però che fra gli 
+         <rs type="person">abitanti</rs> della campagna zelandese si trova una cultura intellettuale straordinaria, superiore a quella dei <rs type="person">contadini francesi</rs>, <rs type="person">belgi</rs> e <rs type="person">tedeschi</rs>, e a quella di molte altre provincie dell'<name type="place">Olanda</name>.</p>
+    </body>
+  </text>
+</TEI>
