@@ -1,4 +1,5 @@
+<!ELEMENT radice(nota)>
 <!ELEMENT nota(da, a)>
 <!ELEMENT da(#PCDATA)>
 <!ELEMENT a(#PCDATA)>
-<!ATTLIST nota nome PCDATA #REQUIRED>
+<!ATTLIST nota nome (Viaggio) #REQUIRED>
