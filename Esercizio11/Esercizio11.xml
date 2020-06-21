@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Titolo edizione digitale</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+				<docAuthor>EDMONDO DE AMICIS</docAuthor>
+				<docTitle>
+					<titlePart type = "main">OLANDA</titlePart>
+				</docTitle>
+				<docImprint>
+					<pubPlace>FIRENZE</pubPlace>
+					<publisher>G.BARBERA, EDITORE</publisher>
+					<date>1876</date>
+				</docImprint>
+			</titlePage>
+		</front>
+		<body>
+			<div>
+				<p>
+				Tutt'a un tratto avvicinandomi alla prora del bastimento, dove sono le terze classi, feci una gratissima scoperta.
+				</p>
+			</div>
+		</body>
+		<back>
+		</back>
+	</text>
+</TEI>
