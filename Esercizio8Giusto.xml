@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?><!--Esempio GIUSTO:-->
+<!DOCTYPE radice SYSTEM "esercizio8.dtd">
+<radice>
+<text>
+    <giorno>Lunedi'</giorno>
+    <attivita> momenti di studio </attivita>
+    <giornata momento ="pomeriggio"/>
+    <ore>
+    	15-16:matematica
+    </ore>
+    <ore>
+    	16-17:italiano
+    </ore>
+    <ore>
+    	17-18:storia
+    </ore>
+    <ore>
+    	18-<giornata momento ="sera"/>19:biologia
+    </ore>
+    <ore>
+    	19-20:geografia
+    </ore>
+    <ore>
+    	20-21:fisica
+    </ore>
+</text>
+</radice>

@@ -1,0 +1,8 @@
+<!ELEMENT radice (text)>
+<!ELEMENT text (giorno, attività, giornata+, ore+)>
+<!ELEMENT giorno(#PCDATA)>
+<!ELEMENT attività(#PCDATA)>
+<!ELEMENT giornata(#PCDATA)>
+<!ELEMENT ore(#PCDATA | giornata)*>
+<!ATTLIST giornata
+momento (pomeriggio | sera)#REQUIRED>
